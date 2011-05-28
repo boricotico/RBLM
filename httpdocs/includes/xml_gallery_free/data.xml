@@ -1,0 +1,73 @@
+<gallery
+rows="3"
+cols="3"
+stage_width="500"
+stage_height="500"
+galleryMargin="40"
+thumb_width="80"
+thumb_height="80"
+thumb_space="20"
+thumbs_x="auto"
+thumbs_y="auto"
+large_x="auto"
+large_y="auto"
+nav_x="0"
+nav_y="0"
+nav_slider_alpha="50"
+nav_padding ="7"
+use_flash_fonts="false"
+nav_text_size="11"
+nav_text_bold="false"
+nav_font="Verdana"
+bg_alpha="100"
+text_bg_alpha="50"
+text_xoffset="20"
+text_yoffset="10"
+text_size="11"
+text_bold="false"
+text_font="Verdana"
+link_xoffset="-2"
+link_yoffset="5"
+link_text_size="11"
+link_text_bold="false"
+link_font="Verdana"
+border="5"
+corner_radius="5"
+shadow_alpha="40"
+shadow_offset="2"
+shadow_size="5"
+shadow_spread="0"
+friction=".3"
+bg_color="333333"
+border_color="FFFFFF"
+thumb_bg_color="FFFFFF"
+nav_color="999999"
+nav_slider_color="000000"
+txt_color="FFFFFF"
+text_bg_color="000000"
+link_text_color="666666"
+link_text_over_color="FF9900"
+auto_size="true"
+showHideCaption="true"
+autoShowFirst="false"
+disableThumbOnOpen="true"
+>
+<pic image="images/Bells.jpg" title="Caption text from xml" link="images/Bells.jpg" link_title="Bells.jpg" />
+<pic image="images/Bells.jpg" title="Caption text from xml" link="images/Bells.jpg" link_title="Bells.jpg" />
+<pic image="images/Bells.jpg" title="Caption text from xml" link="images/Bells.jpg" link_title="Bells.jpg" />
+<pic image="images/Bells.jpg" title="Caption text from xml" link="images/Bells.jpg" link_title="Bells.jpg" />
+<pic image="images/Bells.jpg" title="Caption text from xml" link="images/Bells.jpg" link_title="Bells.jpg" />
+<pic image="images/Bells.jpg" title="Caption text from xml" link="images/Bells.jpg" link_title="Bells.jpg" />
+<pic image="images/Bells.jpg" title="Caption text from xml" link="images/Bells.jpg" link_title="Bells.jpg" />
+<pic image="images/Bells.jpg" title="Caption text from xml" link="images/Bells.jpg" link_title="Bells.jpg" />
+<pic image="images/Bells.jpg" title="Caption text from xml" link="images/Bells.jpg" link_title="Bells.jpg" />
+<pic image="images/Bells.jpg" title="Caption text from xml" link="images/Bells.jpg" link_title="Bells.jpg" />
+<pic image="images/Bells.jpg" title="Caption text from xml" link="images/Bells.jpg" link_title="Bells.jpg" />
+<pic image="images/Bells.jpg" title="Caption text from xml" link="images/Bells.jpg" link_title="Bells.jpg" />
+<pic image="images/Bells.jpg" title="Caption text from xml" link="images/Bells.jpg" link_title="Bells.jpg" />
+<pic image="images/Bells.jpg" title="Caption text from xml" link="images/Bells.jpg" link_title="Bells.jpg" />
+<pic image="images/Bells.jpg" title="Caption text from xml" link="images/Bells.jpg" link_title="Bells.jpg" />
+<pic image="images/Bells.jpg" title="Caption text from xml" link="images/Bells.jpg" link_title="Bells.jpg" />
+<pic image="images/Bells.jpg" title="Caption text from xml" link="images/Bells.jpg" link_title="Bells.jpg" />
+<pic image="images/Bells.jpg" title="Caption text from xml" link="images/Bells.jpg" link_title="Bells.jpg" />
+</gallery>
