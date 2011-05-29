@@ -3,3 +3,15 @@
 # 
 #
 #
+/* Aqui estamos haciendo un cambio el dia siguiente
+ 
+  Una vez que se tiene el origin en github, se pueden jalar los cambios con
+
+ $git fetch origin
+Nota: Cuando se trabaja colectivamente, se debe hacer un fork del principal, con lo cual el branch original debe ser llamado upstream 
+
+ $git fetch upstream
+ $git merge upstream/master
+En este caso estariamos descargando los cambios del proyecto original y despues se hace la comparacion con nuestro master local
+
+*/
